@@ -1,3 +1,14 @@
+# Market Basket Analysis & Recommender System
+
+This project builds an association-rule–based recommender system using transaction data. It applies market basket analysis to uncover relationships between items frequently purchased together, and then serves personalized recommendations through a simple web interface.
+
+# Key Features
+
+* Automated rule generation using FP-Growth (fast, scalable).
+* Clean modular pipeline separating data prep, model, and UI layers.
+* Interactive UI for testing and visualizing recommendations.
+* Artifacts saved for easy reuse by APIs or dashboards.
+
 # Quick Start 
 
 ## 1) Create a virtual env & install deps
