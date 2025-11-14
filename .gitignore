@@ -1,0 +1,45 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs & temps
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+tmp/
+temp/
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+.out/
+.cache/
+coverage/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Package managers
+.pnp.*
+.pnpm-store/
+
+# Misc
+*.swp
+*.swo
